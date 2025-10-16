@@ -1,11 +1,10 @@
-- Add_user add project number
+ Add_user add project number
    
    <img width="754" height="155" alt="Screenshot 2025-10-16 at 9 56 42 AM" src="https://github.com/user-attachments/assets/f31b20d8-29e1-4638-a821-cf8b6ca845ad" />
 
 
    
-
-- System Monitoring Report
+  System Monitoring Report
 
 
   
@@ -13,14 +12,14 @@
 
 
 
-  -help menu
+   help menu
   
   
    <img width="629" height="153" alt="Screenshot 2025-10-16 at 9 56 10 AM" src="https://github.com/user-attachments/assets/c1752486-f066-4bc4-802b-6f0d3f1cb983" />
 
 
 
--change permisson
+   change permisson
 
 
 
@@ -30,7 +29,7 @@
 
 
 
--kill proccess
+   kill proccess
 
 
 
