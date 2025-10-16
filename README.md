@@ -11,7 +11,8 @@
 
 
   
-   <img width="905" height="458" alt="Screenshot 2025-10-16 at 9 57 01 AM" src="https://github.com/user-attachments/assets/5f327fb4-9b63-4519-ba21-259642ba5a62" />
+   <img width="1107" height="473" alt="Screenshot 2025-10-16 at 10 24 19 AM" src="https://github.com/user-attachments/assets/69244b93-8275-4a38-8685-fe8d5e33c6d9" />
+
 
 
 
